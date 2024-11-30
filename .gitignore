@@ -1,0 +1,13 @@
+# Backend
+backend/venv/
+backend/__pycache__/
+backend/.env
+
+# Frontend
+frontend/*/node_modules/
+frontend/*/.next/
+frontend/*/build/
+
+# IDE
+.vscode/
+.idea/
